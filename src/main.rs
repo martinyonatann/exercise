@@ -1,4 +1,5 @@
-#![allow(dead_code)]
+mod method_and_traits;
+mod pattern_matching;
 
 use std::{
     cell::RefCell,
