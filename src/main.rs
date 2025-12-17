@@ -1,5 +1,6 @@
 mod closures;
 mod generic_functions;
+mod memory_management;
 mod method_and_traits;
 mod pattern_matching;
 
